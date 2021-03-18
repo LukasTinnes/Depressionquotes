@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Depressionquotes</string>
     <string-array name="quotes">
-        <item>Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad - Henry Wadsworth Longfellow </item>
+        <item>Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad - Henry Wadsworth, Longfellow </item>
         <item>There are wounds that never show on the body that are deeper and more hurtful than anything that bleeds -  Laurell K. Hamilton, Mistrals Kiss  </item>
         <item>Do you not see how necessary a world of pains and troubles is to school an intelligence and make it a soul? -  John Keats, Letters of John Keats </item>
         <item>The sun stopped shining for me is all. The whole story is: I am sad. I am sad all the time and the sadness is so heavy that I can\'t get away from it. Not ever. - Nina LaCour, Hold Still</item>
@@ -10,5 +10,64 @@
         <item>I am in that temper that if I were under water I would scarcely kick to come to the top. - John Keats</item>
         <item> The pupil dilates in darkness and in the end finds light, just as the soul dilates in misfortune and in the end finds God. - Viktor Hug, Les Miserables</item>
         <item>One swallow does not make a summer, neither does one fine day; similarly one day or brief time of happiness does not make a person entirely happy. - Aristotle</item>
+        <item>There are times when explanations, no matter how reasonable, just don’t seem to help. Fred Rogers</item>
+        <item>There is no person in this whole world who is a mistake, no matter how different that person may seem. Fred Rogers</item>
+        <item>It is easy to be heavy: hard to be light. G.K. Chesterton</item>
+        <item>No darkness lasts forever. And even there, there are stars. Ursula K. Le Guin, The Farthest Shore</item>
+        <item>We know you\'re tired, tired and scared. Happens to everyone, okay? Just don\'t let your feet stop. Haruki Murakami</item>
+        <item>A depressing and difficult passage has prefaced every page I have turned in life. Charlotte Bronte</item>
+        <item>Depression lies. It tells you you\’ve always felt this way, and you always will. But you haven\’t, and you won\’t. Halley Cornell</item>
+        <item>No storm, not even the one in your life, can last forever. The storm is just passing over. Iyanla Vanzant</item>
+        <item>The more you see and accept reality, the more you’ll understand and love yourself. Maxime Lagacé</item>
+        <item>There are some things about myself I can\’t explain to anyone. There are some things I don’t understand at all. Haruki Murakami</item>
+        <item>Depression is, in part, grief for your own life not turning out how it should; grief for your own needs not being met. Johann Hari</item>
+        <item>Love your future more than your past. Joe Dispenza</item>
+        <item>Winter always comes to an end, always. Maxime Lagacé</item>
+        <item>All obstacles that are perceived with love can transform into the greatest life lessons. Gabby Bernstein</item>
+        <item>It isn’t that they can’t see the solution. It is that they can’t see the problem. G.K. Chesterton</item>
+        <item>Whereas pain is a physical experience, suffering is a mental one. It is the sense that things should be other than they are. Its antidote is acceptance. Wu Hsin</item>
+        <item>We cannot simply sit and stare at our wounds forever. We must stand up and move on to the next action. Haruki Murakami (1Q84)</item>
+        <item>Don’t cling to yesterday. It was beautiful, but it was yesterday. Osho</item>
+        <item>Depression is a kind of constricted consciousness. Bill Richards</item>
+        <item>The opposite of play is not work – the opposite of play is depression. Stuart Brown</item>
+        <item>Depression is a medical condition. We need to create a world where people are as comfortable seeking care for their minds as they are for their bodies. Adam Grant</item>
+        <item>Depression is being colorblind and constantly told how colorful the world is. Atticus</item>
+        <item>Depressed means you need deep rest from the character you\’ve been playing in the world. Jim Carrey</item>
+        <item>Make peace with your past so it won’t destroy your present. Paulo Coelho (Hippie)</item>
+        <item>Step out of the history that is holding you back. Step into the new story you are willing to create. Oprah Winfrey</item>
+        <item>You have to take responsibility for your own happiness. Reese Witherspoon</item>
+        <item>One of the best things that helps depression is work, and socialising with other people and connecting. Because when you work you find purpose. Trevor Noah (The Daily Show)</item>
+        <item>Therapy gives you another perspective when you are so lost in your own spiral, it helps. Jon Hamm (Mad Men)</item>
+        <item>I need one of those long hugs where you kinda forget whatever else is happening around you for minute. Marilyn Monroe</item>
+        <item>I’ll never forget how the depression and loneliness felt good and bad at the same time. Still does. Henry Rollins</item>
+        <item>I struggled with anxiety and depression and questioned whether or not I wanted to be alive anymore. It was when I hit this low that I decided to reach out and ask for the help of a licensed therapist. This decision ultimately helped save my life. You don’t have to wait for things. Michael Phelps</item>
+        <item>Promise me you’ll always remember: You\’re braver than you believe, and stronger than you seem, and smarter than you think. Winnie the Pooh</item>
+        <item>There’s always a solution. Noah Kagan</item>
+        <item>Reframing is a super power. Rorty Witt</item>
+        <item>I need a break from my own thoughts. Paulo Coelho</item>
+        <item>Do not stumble on something behind you. Seneca</item>
+        <item>The soul is healed by being with children. Fyodor Dostoevsky</item>
+        <item>To heal a wound you must stop scratching it. Paulo Coelho</item>
+        <item>All of our miseries are nothing but attachment. Osho</item>
+        <item>The greatest griefs are those we cause ourselves. Sophocles</item>
+        <item>The act of releasing your shame is – in itself – healing. Johann Hari</item>
+        <item>Only stepping out of old ruts will bring new insights. Andy Grove</item>
+        <item>Nothing has a hold on your mind that you cannot break free of. Iyanla Vanzant</item>
+        <item>Nobody else can destroy you except you; nobody else can save you except you. Osho</item>
+        <item>Every day of our lives, we are on the verge of making those slight changes that would make all the difference. Mignon McLaughlin</item>
+        <item>It\’s okay to not be okay all the time. Unknown</item>
+        <item>It is very hard to explain to people who have never known serious depression or anxiety the sheer continuous intensity of it. There is no off switch. Matt Haig</item>
+        <item>Do not get lost in a sea of despair. Do not become bitter or hostile. Be hopeful, be optimistic. John Lewis</item>
+        <item>If you run away from pain without identifying and solving the underlying issue, you will probably run to exactly the same situation again. Justin Kan</item>
+        <item>When something is too close to your eyes you cannot see it. For seeing, some distance is needed. Osho</item>
+        <item>The scientific evidence is clear that exercise significantly reduces depression and anxiety. Johann Hari</item>
+        <item>In meditation we learn that sitting is enough. Breathing is enough. This life is enough. And we’re enough too. Jason Garner</item>
+        <item>Things to remember: it\’s okay to cry, it\’s okay to ask for help, you are enough, you matter, bad days happen, you are not alone. Mental Health Notes</item>
+        <item>Some lessons can\’t be taught, they simply have to be learned. Jodi Picoult (Vanishing Acts)</item>
+        <item>I am always with myself, and it is I who am my tormentor. Leo Tolstoy</item>
+        <item>Every thought a person dwells upon, whether he expresses it or not, either damages or improves his life. Lucy Mallory</item>
+        <item>Much misery comes from our current self not wanting to betray our past self. Luca Dellanna</item>
+        <item>Suffering is an indication of ignorance, but in seeking an escape from suffering you are only nourishing ignorance. Jiddu Krishnamurti</item>
+        <item>Stop looking for happiness in the same place you lost it. Paulo Coelho (Hippie)</item>
     </string-array>
 </resources>
