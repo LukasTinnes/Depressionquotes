@@ -16,4 +16,12 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="293dp"
+        android:layout_height="138dp"
+        android:text="New Quote"
+        tools:layout_editor_absoluteX="-2dp"
+        tools:layout_editor_absoluteY="593dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
