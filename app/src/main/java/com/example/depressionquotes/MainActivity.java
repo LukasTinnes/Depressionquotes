@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
                 textview.setText(quotes[number]);
             }
         });
-        textview.setText(quotes[0]);
+        int number = rand.nextInt(quotes.length);
+        textview.setText(quotes[number]);
     }
 }
